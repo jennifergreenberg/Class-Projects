@@ -57,7 +57,7 @@ public class BalancedTree<K,V> implements DictionaryADT<K,V>{
 	// in the dictionary
 	public int size(){
 		return treemap.size();
-	}
+	} 
 	
 	// Returns true if the dictionary is at max capacity
 	public boolean isFull(){
