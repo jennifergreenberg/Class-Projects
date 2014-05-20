@@ -1,3 +1,5 @@
 Data-Structures
 ===============
-Creating a lookup.
+...
+
+(Fall 2013)
