@@ -1,6 +1,3 @@
-/* Bryant To, Jessica To
-** CS570 - Operating Systems A01*/
-
 #include <iostream>
 #include <string>
 #include <sstream>
