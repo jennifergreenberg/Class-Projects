@@ -1,6 +1,3 @@
-/* Bryant To, Jessica To
-** CS570 - Operating Systems A01*/
-
 #include "UnixLS.h"
 
 struct dirent *files;
