@@ -1,6 +1,6 @@
 Operating Systems
 ==================
 This folder consists of different projects written in C++.
-Each file has a detailed description of that particularly project.
+Each project was done while practicing pair programming and each file has a detailed description of that particularly project.
 
 (Spring 2015)
