@@ -1,5 +1,5 @@
 # Bryant To, Jessica To
-# CS550 - AI A02
+# CS550 - AI A02 
 
 from basicsearch_lib.Representation import Problem
 from basicsearch_lib.TileBoard import TileBoard
