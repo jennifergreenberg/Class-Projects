@@ -1,0 +1,7 @@
+This project uses multithreaded processes to emulate the Lucy and Ethel candy factory scenario.  
+Using POSIX unnamed semaphores and POSIX threads, this program simulates two producers (crunchy frog bites and escargot suckers) and two consumers (Lucy and Ethel).  
+Constraints placed on the candy production are that no more than 3 frog bites are allowed on the conveyer belt of 10 slots.  
+In the end, a total of 100 candies are produced and consumed.  
+The program takes in optional command line arguments that specify the number of milliseconds for each producer/consumer.  
+The output of this program shows what is on the belt and what action was applied (consumed/produced).  
+There is also a final production report once the program is done running.
